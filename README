@@ -1,0 +1,5 @@
+make Extractor
+
+// Then to process a input file just do
+
+./Extractor < input.txt > output.txt
